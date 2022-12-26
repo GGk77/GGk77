@@ -1,6 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=33&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=50)
 
 ---
+### 📬 How to reach me :
+<div id="badges">
+  <a href="https://t.me/KirillR7">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
+  </a>
+  <a href="https://instagram.com/kirillrekuts">
+    <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kirill-rekuts-1702441b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn Badge"/>
+  </a>     
+</div>  
+
+---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GGK77&theme=dracula)](https://git.io/streak-stats)
 
 ---
@@ -19,3 +33,6 @@
 
 ---
 [![codewars](https://www.codewars.com/users/GGk77/badges/large)](https://www.codewars.com/users/GGk77)
+<div id="badges">                                                                                                                                
+<img src="https://komarev.com/ghpvc/?username=mikhailovPi&style=flat-square&color=red" alt=""/>
+</div> 
