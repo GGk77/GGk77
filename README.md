@@ -33,6 +33,10 @@
 ## 📈 My stats: <img width='40px' height='40px' src="https://github.com/GGk77/GGk77/blob/main/gifs/github.gif" />
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GGK77&theme=dracula)](https://git.io/streak-stats)
 
+<p>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GGK77&layout=compact&theme=dracula"> <img height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGK77&layout=compact&theme=dracula" /> </a>
+</p>
+
 [![Codewars](https://www.codewars.com/users/GGk77/badges/large)](https://www.codewars.com/users/GGk77)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GGK77)
