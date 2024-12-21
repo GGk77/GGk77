@@ -13,10 +13,8 @@
 </div>  
 
 ---
-## :hammer_and_wrench: Languages and Tools: <img width='40px' height='40px' src="https://github.com/GGk77/GGk77/blob/main/gifs/brackets.gif" /> <img width='40px' height='40px' src="https://github.com/GGk77/GGk77/blob/main/gifs/print.gif" />
-
+## Languages and Tools: 
 <a href="https://www.java.com"> <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" /> </a>
-<a href="https://kotlinlang.org"> <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" /> </a>
 <a href="https://www.jetbrains.com/idea/"> <img width='50px' height='50px' src="https://github.com/GGk77/GGk77/blob/main/icons/skills/IntelliJ_IDEA.svg" /> </a>
 <a href="https://git-scm.com/"> <img width='50px' height='50px' src="https://github.com/GGk77/GGk77/blob/main/icons/skills/Git.svg" /> </a>
 <a href="https://spring.io/"> <img width='50px' height='50px' src="https://github.com/GGk77/GGk77/blob/main/icons/skills/Spring.svg" /> </a>
@@ -24,7 +22,6 @@
 <a href="https://gradle.org/"> <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" /> </a>
 <a href="https://www.postgresql.org/"> <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" /> </a>
 <a href="https://www.mysql.com/"> <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" /> </a>
-<a href="https://ubuntu.com/"> <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" /> </a>
 <a href="https://www.docker.com/"> <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" /> </a>
 
 
