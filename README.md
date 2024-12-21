@@ -1,5 +1,5 @@
 ---
-## 📬 How to reach me: <img width='40px' height='40px' src="https://github.com/GGk77/GGk77/blob/main/gifs/flying_bird.gif" /> <img width='40px' height='40px' src="https://github.com/GGk77/GGk77/blob/main/gifs/dancing_cactus.gif" />
+
 <div id="badges">
   <a href="https://t.me/KirillR7">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
